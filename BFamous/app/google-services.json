@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "683420376504",
+    "firebase_url": "https://bfamous.firebaseio.com",
+    "project_id": "bfamous",
+    "storage_bucket": "bfamous.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683420376504:android:2015de9c983bc1b4",
+        "android_client_info": {
+          "package_name": "com.example.bfamous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683420376504-95f7l9ar7da6sut78o1lsfvrb2vchpfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bfamous",
+            "certificate_hash": "ad248a348d965bde8ef3834619069576c12fea46"
+          }
+        },
+        {
+          "client_id": "683420376504-rv1eithkogo1pcegv398pov0dcgnb98p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSMB27mbioJwNAJoiBFWi5n7nz1YcZts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683420376504-rv1eithkogo1pcegv398pov0dcgnb98p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/nav_home"
+    android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"
+        >
+
+    </item>
+    <item
+    android:id="@+id/nav_friends"
+    android:title="Friends"
+        android:icon="@drawable/ic_search"/>
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"/>
+
+    <item
+        android:id="@+id/nav_addpost"
+        android:title="Add post"
+        android:icon="@drawable/ic_add"/>
+    <item
+        android:id="@+id/nav_blogs"
+        android:title="Blogs"
+        android:icon="@drawable/ic_inbox"
+        ></item>
+
+    <item
+        android:id="@+id/nav_ytlinks"
+        android:title="Youtube links"
+        ></item>
+    <item
+        android:id="@+id/nav_notif"
+        android:title="Notification"
+        android:icon="@drawable/ic_heart"
+        ></item>
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"
+        />
+
+
+</menu>

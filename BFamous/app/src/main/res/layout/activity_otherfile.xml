@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Otherfile">
+
+
+    <Button
+        android:id="@+id/selectfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fetchb"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="165dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="158dp"
+        android:background="@drawable/button_background"
+        android:gravity="center"
+        android:text="SELECT" />
+
+    <Button
+        android:id="@+id/uploadfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/selectfile"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="158dp"
+        android:layout_marginTop="99dp"
+        android:layout_marginEnd="165dp"
+        android:background="@drawable/button_background"
+        android:gravity="center"
+        android:text="UPLOAD" />
+
+    <TextView
+        android:id="@+id/filename"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/uploadfile"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="173dp"
+        android:gravity="center"
+        android:text="filename" />
+
+    <Button
+        android:id="@+id/fetchb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="162dp"
+        android:layout_marginTop="159dp"
+        android:layout_marginEnd="161dp"
+        android:background="@drawable/button_background"
+        android:gravity="center"
+        android:text="Fetch" />
+
+
+</RelativeLayout>

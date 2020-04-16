@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BFamous</string>
+    <string name="drawer_open">Drawer_open</string>
+    <string name="drawer_close">Drawer_close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
